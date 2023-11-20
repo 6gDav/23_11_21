@@ -1,0 +1,9 @@
+#numberContainer {
+    display: flex;
+    flex-wrap: wrap; /* Hozzáadott tulajdonság: a számok sortörés nélkül férnek majd el */
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
