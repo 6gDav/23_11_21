@@ -1,4 +1,4 @@
-let numberContainer = document.getElementById("numberContainer");
+let numberContainer = document.getElementById("gamearea");
 
 for (let i = 1; i <= 12; i++) {
     numberContainer.innerHTML += 'A' + "<br>";
